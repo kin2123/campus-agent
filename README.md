@@ -1,5 +1,7 @@
 # 校园课程智能助手 · AI Agent + RAG + MCP 全栈项目
 
+[![CI](https://github.com/kin2123/campus-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/kin2123/campus-agent/actions/workflows/ci.yml)
+
 一个把「大模型 Agent 接管教务业务」这件事**做完整、做到能上生产讨论**的示例项目。
 
 不是 demo 级拼装：身份带外透传防越权、写操作人工审批、AI 操作全量审计、
