@@ -27,3 +27,6 @@ npm-debug.log*
 .idea/
 *.swp
 .DS_Store
+
+# 本地个人测试笔记，不随仓库发布
+待测试.md
