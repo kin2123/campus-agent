@@ -1,0 +1,27 @@
+# ===== Web 框架 =====
+fastapi
+uvicorn[standard]
+python-multipart
+sse-starlette
+
+# ===== 数据层 =====
+SQLAlchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+
+# ===== Agent 编排 =====
+langchain
+langchain-core
+langgraph
+langchain-mcp-adapters
+
+# ===== MCP 工具服务 =====
+mcp
+
+# ===== RAG =====
+chromadb
+
+# ===== HTTP 客户端 =====
+httpx
